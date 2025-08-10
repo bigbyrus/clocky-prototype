@@ -32,9 +32,4 @@ Pushbuttons allow quick toggling of motion or alarm features without reprogrammi
 - 3D printed chassis (SolidWorks design)
 - TM1637 LED Display
 
----
 
-## Future Improvements
-- Add obstacle avoidance sensors
-- Programmable motion patterns
-- Rechargeable battery integration
