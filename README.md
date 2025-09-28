@@ -1,6 +1,6 @@
 # Clocky Prototype
 
-An **alarm clock on wheels** controlled by an **Arduino R3** and geared DC motors.  
+An **alarm clock on wheels** controlled by an Arduino Uno and geared DC motors.  
 When the alarm time is reached, Clocky automatically begins its programmed motion pattern.
 
 - **Motion on Alarm** – When the alarm time is reached, Clocky starts moving around the room.
