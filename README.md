@@ -15,8 +15,8 @@ When the alarm time is reached, Clocky automatically begins its programmed motio
 ## Internals
 <img width="676" height="510" alt="Screenshot 2025-08-09 191011" src="https://github.com/user-attachments/assets/f7c8666e-a0a2-4926-9315-be720005dac8" />
 
-Both geared DC motors are driven by the TB6612FNG motor driver and powered via the Arduino R3.  
-Pushbuttons allow quick toggling of motion or alarm features without reprogramming.  
+Both geared DC motors are driven by the TB6612FNG motor driver and powered via the Arduino Uno.  
+Pushbuttons allow quick toggling for motion or alarm features without reprogramming.  
 
 ---
 
@@ -32,11 +32,11 @@ Pushbuttons allow quick toggling of motion or alarm features without reprogrammi
 
 
 ## Components Used
-- Arduino R3
+- Arduino Uno
 - SparkFun TB6612FNG Dual Motor Driver
 - Geared DC Motors
 - Pushbuttons
-- 3D printed chassis (SolidWorks design)
+- 3D printed chassis (designed in SolidWorks)
 - TM1637 LED Display
 
 
