@@ -8,7 +8,7 @@ When the alarm time is reached, Clocky automatically begins its programmed motio
   - Enable/disable motion pattern
   - Enable/disable alarm mechanism
 - **Custom Design** – Entire structure 3D printed and modeled in **SolidWorks**.
-- **Dual Motor Control** – Powered by a SparkFun Motor Driver (**Dual TB6612FNG**).
+- **Dual Motor Control** – Powered by a SparkFun Motor Driver 
 
 ---
 
